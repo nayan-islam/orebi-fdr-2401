@@ -21,6 +21,7 @@ const Navber = () => {
               <Li className="text-[#262626]" listItem="Home" />
               <Li listItem="Shop" />
               <Li listItem="About" />
+              <Li listItem="Service" />
               <Li listItem="Contacts" />
               <Li listItem="Journal" />
             </ul>
